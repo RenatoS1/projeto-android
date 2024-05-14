@@ -115,6 +115,7 @@ main  h2 {
 
 main img {width: 50%;
     width: 100%;
+   
 }
 main img.pequena{
     max-width: 400px;
@@ -147,6 +148,10 @@ main a {
 
 main a:hover {
     text-decoration: underline;
+}
+
+article {
+    padding:10px;
 }
 
 div.video {
